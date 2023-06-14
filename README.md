@@ -22,4 +22,3 @@
 - [Ilia Rodionov](https://github.com/IliaRodionov)
 - [David Ermoshin](https://github.com/Rudolffovich)
 
-## License
