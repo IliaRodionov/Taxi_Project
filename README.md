@@ -1,6 +1,6 @@
 ## Taxi Project
 
-# Команда название
+#### Команда название
 
 <p align="center">
       <img src="https://i.ibb.co/rw17Qpr/e2457c6853d55126c05f61e70548bb.jpg" width="726">
