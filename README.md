@@ -13,12 +13,9 @@
 ## Documentation
 
 - **-** **`Taxi Project.ipynb`** - тетрадка с кодом проекта 
+- **-** **`Data.csv`** - данные
+- **-** **`Chat GPT.html`** - промпты для Chat GPT использованные в рамках проекта
 - **-** **`Previous Project.ipynb`** - тетрадка с кодом предыдущего проекта
-
-## Distribute
-
-- [Service Name](Page Link)
-
 
 ## Developers
 
