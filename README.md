@@ -12,7 +12,8 @@
 
 ## Documentation
 
-**-** **`Тетрадь с кодом`** - 
+- **-** **`Taxi Project.ipynb`** - тетрадка с кодом проекта 
+- **-** **`Previous Project.ipynb`** - тетрадка с кодом предыдущего проекта
 
 ## Distribute
 
